@@ -14,7 +14,7 @@
   ],
   "dependencies": {
     "inputmask": "^4.0.8",
-    "vue": "^2.4.2"
+    "vue": "^2.6.10"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
