@@ -17,4 +17,4 @@ var inputmaskPlugin = {
     }
 };
 
-exports.default = inputmaskPlugin
+export default inputmaskPlugin

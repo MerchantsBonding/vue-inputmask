@@ -16,12 +16,13 @@
     "inputmask": "^3.3.7",
     "vue": "^2.6.10"
   },
-  "devDependencies": {
-    "babel-core": "^6.26.0",
-    "babel-loader": "^7.1.2",
-    "babel-preset-env": "^1.6.0",
-    "webpack": "^3.6.0"
-  },
   "main": "./dist/vue-inputmask.js",
-  "types": "./types/vue-inputmask.d.ts"
+  "types": "./types/vue-inputmask.d.ts",
+  "devDependencies": {
+    "@babel/core": "^7.29.0",
+    "@babel/preset-env": "^7.29.0",
+    "babel-loader": "^10.0.0",
+    "webpack": "^5.105.4",
+    "webpack-cli": "^6.0.1"
+  }
 }
